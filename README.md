@@ -1,6 +1,5 @@
 Sample testing commit. 
 Sample testing commit 2.
-Sample testing commit 3.
 
 ## React App
 
