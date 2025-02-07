@@ -1,4 +1,4 @@
-Sample testing commit. 222
+Sample testing commit.
 
 ## React App
 
